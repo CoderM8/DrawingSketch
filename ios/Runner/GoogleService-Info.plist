@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBb3OP3hkX31KqDtJlaPUu-Wv8hUJ1CSFE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1090383578874</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vocsy.drawingSketch</string>
+	<key>PROJECT_ID</key>
+	<string>ar-draw-trace</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ar-draw-trace.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1090383578874:ios:c0b48cdbaed0f616882b43</string>
+</dict>
+</plist>

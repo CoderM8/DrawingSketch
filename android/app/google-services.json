@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090383578874",
+    "project_id": "ar-draw-trace",
+    "storage_bucket": "ar-draw-trace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090383578874:android:8a2a7c305c53fc4a882b43",
+        "android_client_info": {
+          "package_name": "com.vocsy.drawingSketch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZ0MnwP1dO28_mCvLVq1Q4QyHRnxEdpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

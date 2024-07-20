@@ -1,0 +1,110 @@
+{
+  "identifier" : "B9D6DAAC",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "199",
+      "familyShareable" : false,
+      "internalID" : "F9805A33",
+      "localizations" : [
+        {
+          "description" : "3 days free",
+          "displayName" : "1 Week",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.draw.week",
+      "referenceName" : "1 week",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "599",
+      "familyShareable" : false,
+      "internalID" : "D85C695A",
+      "localizations" : [
+        {
+          "description" : "14 days free",
+          "displayName" : "1 Month",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.draw.month",
+      "referenceName" : "1 month",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1599",
+      "familyShareable" : false,
+      "internalID" : "70176549",
+      "localizations" : [
+        {
+          "description" : "Lifetime",
+          "displayName" : "Lifetime",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.draw.lifetime",
+      "referenceName" : "Lifetime",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
